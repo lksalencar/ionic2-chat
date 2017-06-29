@@ -1,0 +1,13 @@
+{
+  "name": "Chat Ionic",
+  "short_name": "ChatIonic",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/images/logo.png",
+    "sizes": "238x238",
+    "type": "image/png"
+  }],
+  "background_color": "#1A237E",
+  "theme_color": "#1A237E"
+}
